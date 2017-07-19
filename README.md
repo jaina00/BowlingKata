@@ -1,2 +1,1 @@
-"# bowlingKata" 
-"# bowlingKata" 
+"# bowlingKata"
